@@ -2,7 +2,7 @@
 
 This repo, is just to show the differences between using Selenium for various languages.
 
-In this project, there are currently 2x examples (they are stored in different folders):
+In this repo, there are currently 2x examples (they are stored in different folders):
 
 - [nodejs](./nodejs/)
 - [python](./python/)
