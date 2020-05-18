@@ -2,7 +2,6 @@
 
 ## first steps
 
-1. cd into `javascript`
 1. run `npm install`
 
 In the Let's install some recommended software
