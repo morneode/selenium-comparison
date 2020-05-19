@@ -4,8 +4,11 @@ This repo, is just to show the differences between using Selenium for various la
 
 In this repo, there are currently 2x examples (they are stored in different folders):
 
-- [nodejs](./nodejs/)
-- [python](./python/)
+- nodejs
+- python
+
+For the following tutorial, please arrange your windows like below:
+![Recommended window layout](./pics/recommended-window-layout.png)
 
 After cloning this repo, follow the steps:
 
