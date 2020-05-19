@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 driver.maximize_window()
 driver.get("http://www.google.com/ncr")
 assert "Google" in driver.title

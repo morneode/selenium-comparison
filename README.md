@@ -23,7 +23,7 @@ After cloning this repo, follow the steps:
    2. Install Selenium for Python, using `pip install -U selenium`
    3. Go through the source code for the test. The source code is in the `google-test.py` file. [you can click here](python/google-test.py)
    4. Could you understand how the test worked, and what would happen?
-   5. Now, **run** the test: `python google-test.py`
+   5. Now, **run** the test: `python google-test.py` or `python3 google-test.py`
 
 If you are intrested in any particular language, feel free to play around with it, and also read the `README.md` file in the root of that project:
 
